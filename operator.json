@@ -1,6 +1,6 @@
 {
   "name": "MDS",
-  "description": "Multidimensional Scaling",
+  "description": "Multidimensional Scaling: Displays a dot plot showing the level of similarity between the data points of two cases.",
   "tags": ["multivariate statistics"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/mds_operator"],
